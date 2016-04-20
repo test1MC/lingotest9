@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceControlDatabaseRoot="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-20.liprjf" SourceControlDatabase="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-20.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="6b815157-0c53-412f-b0fc-22415efd2cc5">
+    <FlattenedVariables>Variables.CompanyName;Variables.PhoneNumber</FlattenedVariables>
+    <ProjectFile Source="Target/LingoProject6.flprj" Target="Target/LingoProject6.flprj" />
+    <TMConnection Connection="LingoLocal1.db" ReadOnly="false" Type="StandAlone" />
+</LingoProject>
