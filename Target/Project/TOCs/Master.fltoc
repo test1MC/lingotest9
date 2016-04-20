@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1">
-
-	<TocEntry Title="Topic" Link="/Content/Topic.htm"/>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Topic"
+    Link="/Content/Topic.htm" />
+  <TocEntry
+    Title="Topic1"
+    Link="/Content/Topic1.htm" />
+  <TocEntry
+    Title="NewFolder">
+    <TocEntry
+      Title="Topic1"
+      Link="/Content/NewFolder/Topic1.htm" />
+  </TocEntry>
 </CatapultToc>
